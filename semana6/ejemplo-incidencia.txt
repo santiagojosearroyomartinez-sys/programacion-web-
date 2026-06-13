@@ -1,0 +1,4 @@
+{
+  "tipo": "Hueco en la vía",
+  "descripcion": "Los habitantes reportan un hueco grande en la calle principal."
+}
