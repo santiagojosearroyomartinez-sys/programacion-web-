@@ -1,0 +1,11 @@
+Ruta: /
+
+Al ingresar a esta ruta aparece el mensaje "Servidor activo".
+
+Ruta: /saludo
+
+Al ingresar a esta ruta aparece el mensaje "Hola comunidad".
+
+Ruta: /mensaje/juan
+
+Al ingresar a esta ruta aparece el mensaje "Hola juan".
