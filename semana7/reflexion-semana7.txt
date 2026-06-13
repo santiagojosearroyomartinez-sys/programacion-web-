@@ -1,0 +1,15 @@
+Es importante que las comunidades puedan registrar y 
+consultar reportes en plataformas tecnológicas porque esto 
+facilita la comunicación entre los ciudadanos y las 
+entidades responsables. Además, permite llevar un control 
+organizado de las situaciones que afectan a la comunidad.
+Gracias a estos sistemas, los problemas pueden 
+identificarse y atenderse con mayor rapidez. También ayudan
+a recopilar información útil para la toma de decisiones. 
+Considero que la tecnología contribuye a mejorar la 
+participación ciudadana y la gestión de los recursos. 
+Durante esta actividad aprendí cómo almacenar información
+temporalmente y cómo consultarla mediante una API. 
+Estas herramientas son muy útiles para el desarrollo 
+de soluciones tecnológicas orientadas al bienestar de 
+las comunidades.
