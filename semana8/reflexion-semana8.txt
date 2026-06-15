@@ -1,0 +1,6 @@
+La seguridad digital es muy importante porque protege la información y la privacidad de las personas que usan una plataforma 
+comunitaria. Si los datos no están protegidos, pueden ser robados o utilizados de manera indebida. Además, el uso de contraseñas 
+seguras y controles de acceso ayuda a evitar que personas no autorizadas ingresen al sistema. También es importante mantener el 
+software actualizado para reducir riesgos. Una plataforma segura genera confianza entre sus usuarios y permite una participación 
+más tranquila. Por eso, aplicar buenas prácticas de seguridad beneficia tanto a los administradores como a toda la comunidad y 
+garantiza un mejor funcionamiento de los servicios digitales.

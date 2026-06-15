@@ -1,0 +1,5 @@
+Proteger los datos personales de los usuarios.
+Utilizar contraseñas seguras y autenticación.
+Limitar el acceso a información sensible según el rol.
+Registrar los accesos y actividades importantes.
+Mantener copias de seguridad y actualizar el sistema periódicamente.
